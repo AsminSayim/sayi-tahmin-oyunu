@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\sayı-tahmin-oyun\sayı-tahmin-oyun\bin\Debug\sayı-tahmin-oyun.exe.config
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\sayı-tahmin-oyun\sayı-tahmin-oyun\bin\Debug\sayı-tahmin-oyun.exe
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\sayı-tahmin-oyun\sayı-tahmin-oyun\bin\Debug\sayı-tahmin-oyun.pdb
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\sayı-tahmin-oyun\sayı-tahmin-oyun\obj\Debug\sayı-tahmin-oyun.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\sayı-tahmin-oyun\sayı-tahmin-oyun\obj\Debug\sayı-tahmin-oyun.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\sayı-tahmin-oyun\sayı-tahmin-oyun\obj\Debug\sayı_tahmin_oyun.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\sayı-tahmin-oyun\sayı-tahmin-oyun\obj\Debug\sayı_tahmin_oyun.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\sayı-tahmin-oyun\sayı-tahmin-oyun\obj\Debug\sayı-tahmin-oyun.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\sayı-tahmin-oyun\sayı-tahmin-oyun\obj\Debug\sayı-tahmin-oyun.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\sayı-tahmin-oyun\sayı-tahmin-oyun\obj\Debug\sayı-tahmin-oyun.exe
+C:\Users\User\Desktop\KORUMASIZ\ntpörnekler\sayı-tahmin-oyun\sayı-tahmin-oyun\obj\Debug\sayı-tahmin-oyun.pdb
